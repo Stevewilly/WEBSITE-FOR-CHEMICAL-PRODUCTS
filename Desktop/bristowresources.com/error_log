@@ -1,0 +1,4 @@
+[26-Feb-2017 05:37:35 America/Chicago] PHP Warning:  include(Mail.php): failed to open stream: No such file or directory in /home2/terry/public_html/authsmtp-test.php on line 3
+[26-Feb-2017 05:37:35 America/Chicago] PHP Warning:  include(Mail.php): failed to open stream: No such file or directory in /home2/terry/public_html/authsmtp-test.php on line 3
+[26-Feb-2017 05:37:35 America/Chicago] PHP Warning:  include(): Failed opening 'Mail.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home2/terry/public_html/authsmtp-test.php on line 3
+[26-Feb-2017 05:37:35 America/Chicago] PHP Fatal error:  Class 'Mail' not found in /home2/terry/public_html/authsmtp-test.php on line 18
